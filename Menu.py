@@ -6,7 +6,8 @@ menu = {
     'Kofta':80,
     'Malai': 40,
     'Mitha':30,
-    'Namkeen':20
+    'Namkeen':20,
+    'Coffe':28
 
 }
 print("welcome to MSR Restro")
