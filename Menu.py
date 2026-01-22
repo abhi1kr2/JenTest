@@ -5,7 +5,9 @@ menu = {
     'Chow':70,
     'Kofta':80,
     'Malai': 40,
-    'Mitha':30
+    'Mitha':30,
+    'Namkeen':20
+
 }
 print("welcome to MSR Restro")
 print(" Pizza = 40\n Pasta = 35\n Burger = 60\n Chow = 70\n Kofta = 80\n Malai = 40\n Mitha = 30")
